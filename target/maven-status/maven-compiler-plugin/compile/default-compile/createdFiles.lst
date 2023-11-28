@@ -1,5 +1,13 @@
-logica\Categoria.class
-logica\Cliente.class
-logica\Orden.class
-logica\Tecnico.class
+javautn\tpfinalutn\persistencia\ClienteJpaController.class
+javautn\tpfinalutn\persistencia\ControladoraPersistencia.class
+javautn\tpfinalutn\logica\Categoria.class
+javautn\tpfinalutn\persistencia\CategoriaJpaController.class
+javautn\tpfinalutn\persistencia\TecnicoJpaController.class
+javautn\tpfinalutn\persistencia\exceptions\PreexistingEntityException.class
+javautn\tpfinalutn\persistencia\exceptions\IllegalOrphanException.class
+javautn\tpfinalutn\logica\Cliente.class
+javautn\tpfinalutn\persistencia\exceptions\NonexistentEntityException.class
+javautn\tpfinalutn\persistencia\OrdenJpaController.class
 javautn\tpfinalutn\TPFinalUTN.class
+javautn\tpfinalutn\logica\Orden.class
+javautn\tpfinalutn\logica\Tecnico.class

@@ -1,10 +1,16 @@
 
 package javautn.tpfinalutn;
 
+import javautn.tpfinalutn.logica.ControladoraLogica;
+
+
 
 public class TPFinalUTN {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        
+        ControladoraLogica ControlLogica = new ControladoraLogica();
+        
+ 
     }
 }
